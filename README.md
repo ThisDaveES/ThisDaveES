@@ -2,6 +2,8 @@
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68da24a6dcae303877994999?variant=dark&roadmaps=" alt="roadmap.sh"/></a>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68da24a6dcae303877994999?variant=dark&roadmaps=)](https://roadmap.sh)
+
 <!--
 **ThisDaveES/ThisDaveES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
